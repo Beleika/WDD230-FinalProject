@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+   
+}
+
+nav{
+    font-size: 2rem;
+    background-color: rgb(224, 224, 126);
+    padding: 10px;
+}
